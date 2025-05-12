@@ -22,7 +22,7 @@ def chunks(lst, n):
 def webhook(invite_code):
     embed_data = {
         "title": "Vanity URL Available!",
-        "description": f"• **Vanity URL** : `{invite_code} :>`\n [Join the Discord Server](https://discord.gg/1937)",
+        "description": f"• **Vanity URL** : `{invite_code} :>`\n [Join the Discord Server](https://discord.gg/1988)",
         "color": 65280,
         "footer": {
             "text": "developed by duckevils [>.<]",
